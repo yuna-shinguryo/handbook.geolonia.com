@@ -18,8 +18,8 @@
 まずリポジトリを `git clone` して、作業用ディレクトリ内に移動してください。
 
 ```
-$ git clone <repository>
-$ cd <repository>
+$ git clone https://github.com/geolonia/handbook.geolonia.com
+$ cd handbook.geolonia.com
 ```
 
 次に作業用ディレクトリ内にPythonの仮想環境を作ってください。
