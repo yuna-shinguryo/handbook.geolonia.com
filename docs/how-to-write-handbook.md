@@ -8,7 +8,7 @@
 
 * [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 
-## 日本語の記述について
+## 日本語スタイルについて
 
 現時点では（2024年11月現在）、ハンドブックは日本語で記述するものとします。将来国際化が必要となることも想定されます。
 
@@ -25,9 +25,9 @@
 |コンピューター|コンピュータ|カタカナ語の語尾の長音は省略しない。|
 |カー・ナビゲーション・システム|カーナビゲーションシステム|長いカタカナ複合語は全角中黒または半角スペースで区切る。|
 
-## 表現の統一について
+## 要求レベルの表現の統一について
 
-あいまいさを回避するために、以下の表現を用いて要求レベルを明確にすることを推奨します。これは RFC2119 の 「Key words for use in RFCs to Indicate Requirement Levels」をベースとしています。
+あいまいさを回避するために、以下の表現を用いて要求レベルを明確にすることを推奨します。これは [RFC2119 の 「Key words for use in RFCs to Indicate Requirement Levels」](https://www.ietf.org/rfc/rfc2119.txt)をベースとしています。
 
 ### MUST
 
