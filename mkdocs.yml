@@ -1,6 +1,15 @@
 site_name: Geolonia Handbook
 
+copyright: Copyright &copy; 2014 Geiolonia Inc.
+
 theme:
   name: material
+  language: ja
+  custom_dir: theme/overrides
   palette:
-    primary: white 
+    primary: white
+  features:
+    - search.suggest
+plugins:
+  - offline
+  - search

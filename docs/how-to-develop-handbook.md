@@ -87,6 +87,14 @@ $ pip install --upgrade pip && pip install -r requirments.txt
 $ mkdocs serve
 ```
 
-## Windows
+### Windows
 
 どなたか書いていただけると幸いです。
+
+### requirements.txt について
+
+mkdocs プラグインを追加したい等の理由でパッケージを追加した際には、以下のコマンドで必ず `requirements.txt` を更新してください。
+
+```
+$ pip freeze > requirments.txt
+```
