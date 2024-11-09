@@ -1,7 +1,15 @@
 # ハンドブックの開発
 
 このページは、このハンドブックのウェブサイトの開発をしたい人向けの情報です。
-単に記事を書いたり修正したいだけなら、ここに記載されている作業や知識、スキルは不要です。
+単に記事を書いたり修正したいだけなら、ここに記載されている作業や知識は不要です。
+
+## Material for MkDocs について
+
+このハンドブックは、Material for MkDocs という静的サイトジェネレーターを使っています。
+スタイル等のカスタマイズについては、Material for MkDocs のドキュメンテーションを参照してください。
+
+* [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)
+* [https://github.com/squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (GitHub リポジトリ)
 
 ## ローカル開発環境の準備
 
