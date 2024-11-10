@@ -1,3 +1,3 @@
 ---
-title: Geolonia ハンドブック
+title: ホーム
 ---
