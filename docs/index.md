@@ -1,3 +1,3 @@
 ---
-title: ホーム
+title: Getting Started
 ---
