@@ -1,3 +1,6 @@
 ---
-title: Getting Started
+title: ホーム
+template: home.html
 ---
+
+# Getting Started
