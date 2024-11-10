@@ -13,3 +13,5 @@ theme:
 plugins:
   - offline
   - search
+extra_css:
+  - assets/style.css
