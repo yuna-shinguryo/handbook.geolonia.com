@@ -60,3 +60,27 @@ $ mkdocs serve
 ```
 
 詳しくはハンドブック内の「ハンドブックの開発 （開発者向け）」を参照してください。
+
+#### `direnv` を使って仮想環境の有効化を自動化する
+
+※ 以下は、上述の初期設定が完了していることが前提です。
+
+Homebrew を使って `direnv` をインストールしてください。
+
+```
+$ brew install direnv
+```
+
+作業ディレクトリ内で以下のコマンドを実行してください。
+
+```
+$ direnv allow
+```
+
+以上で、作業ディレクトリ内に移動するだけで仮想環境が有効になりますので今後の作業がシンプルになります。
+
+```
+$ git pull
+$ pip install --upgrade pip && pip install -r requirments.txt
+$ mkdocs serve
+```
